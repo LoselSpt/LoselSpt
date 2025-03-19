@@ -1,6 +1,6 @@
 <img width=100% src='https://capsule-render.vercel.app/api?type=waving&color=137501&section=header&textBg=false&fontColor=Green&reversal=true'/>
 
-<h1 align="center"> Oieee Sou Losel <img align="center" alt="Losel-pic" height="160" style="border-radius:10px;" src="https://cdn.discordapp.com/attachments/1101630117844885735/1346622857354023033/losel.gif?ex=67c8dbc4&is=67c78a44&hm=628ea882f50f713ebd5b6c38203eb9a993447f142cca9174a8880f8aa67764e7&"> 
+<h1 align="center"> Oieee Sou Losel <img align="center" alt="Losel-pic" height="160" style="border-radius:10px;" src="https://media.discordapp.net/attachments/1101630117844885735/1346622857354023033/losel.gif?ex=67db50c4&is=67d9ff44&hm=8abd8a93237642b31cc6681f6d89a4d22b49c5b7e9852bc24f13376ba5c88c06&=&width=270&height=160"> 
  </h1>
  
 Estudante de programação com foco em Front-End, busco aprender e adquirir experiência em **JavaScript**, **HTML** e **CSS**.
