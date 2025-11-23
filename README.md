@@ -19,7 +19,7 @@ Sou uma pessoa prática e que gosta de desafios. Aprender faz parte do meu dia a
          src="https://github-readme-stats.vercel.app/api/?username=LoselSpt&count_private=true&theme=chartreuse-dark&show_icons=false&include_all_commits=true&hide_border=true&cache_seconds=7200&locale=pt-br">
          
    <img width="45%" align="left"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoselSpt&layout=compact&theme=chartreuse-dark&langs_count=10&hide=jupyter%20notebook&hide_border=true&cache_seconds=7200&locale=pt-br">
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoselSpt&layout=compact&theme=chartreuse-dark&langs_count=10&hide=jupyter%20notebook&hide_border=true&cache_seconds=3200&locale=pt-br">
 </div>
 
 <img width=100% src='https://capsule-render.vercel.app/api?type=waving&color=137501&section=footer&textBg=false&fontColor=Green&reversal=true'/>
