@@ -39,18 +39,18 @@ const joaoVitor = {
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats-wine-seven-55.vercel.app/api/?username=LoselSpt&count_private=true&theme=chartreuse-dark&show_icons=false&include_all_commits=true&hide_border=true&cache_seconds=3200&locale=pt-br" height="195" />
+        <img src="https://github-readme-stats-wine-seven-55.vercel.app/api/?username=LoselSpt&count_private=true&theme=algolia&show_icons=false&include_all_commits=true&hide_border=true&cache_seconds=3200&locale=pt-br" height="195" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats-wine-seven-55.vercel.app/api/top-langs/?username=LoselSpt&layout=compact&theme=chartreuse-dark&langs_count=15&hide=jupyter%20notebook&hide_border=true&cache_seconds=3200&locale=pt-br" height="195" />
+        <img src="https://github-readme-stats-wine-seven-55.vercel.app/api/top-langs/?username=LoselSpt&layout=compact&theme=algolia&langs_count=15&hide=jupyter%20notebook&hide_border=true&cache_seconds=3200&locale=pt-br" height="195" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoselSpt&theme=chartreuse_dark&locale=pt-br" height="195" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LoselSpt&theme=algolia" height="195" />
       </td>
       <td align="center">
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LoselSpt&theme=chartreuse-dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LoselSpt&theme=algolia&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
       </td>
     </tr>
   </table>
