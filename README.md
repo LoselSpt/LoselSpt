@@ -20,7 +20,7 @@
 const joaoVitor = {
   idade                 : 20,
   localizacao           : "Araguari, MG — Brasil",
-  formacao              : "Análise e Desenvolvimento de Sistemas",
+  formacao              : "Cursando Análise e Desenvolvimento de Sistemas 3/5",
   ingles                : "Iniciante e melhorando",
 
   construindoAtualmente : ["Java", "JavaScript", "Python", "Arquitetura de Software", "Padrões de Projeto"],
