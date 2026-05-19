@@ -2,11 +2,34 @@
 
 <img src="./Header.svg" width="100%" alt="header"/>
 
-<h1 align="center"> Oieee Sou Losel 
-</h1>
- 
-Estudante de programação com foco em Front-End, busco aprender e adquirir experiência em **JavaScript**, **HTML** e **CSS**.
-Sou uma pessoa prática e que gosta de desafios. Aprender faz parte do meu dia a dia, e os desafios me mantêm sempre motivado a descobrir as melhores soluções.
+<h1>Meu Perfil</h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=1500&pause=500&color=F7F7F7&background=FFFFFF00&center=true&multiline=true&width=435&height=70&lines=+++++++++Oie+JV+aqui+;Seja+bem+vindo;%3AD" alt="Typing SVG" /></a>
+
+<p align="center">
+  <em>Programando, Jogando, Estudando ou escutando musica. eh deve ser eu</em>
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovitorss19/)
+&nbsp;
+
+
+</div>
+
+```ts
+const joaoVitor = {
+  idade                 : 20,
+  localizacao           : "Araguari, MG — Brasil",
+  formacao              : "Análise e Desenvolvimento de Sistemas",
+  ingles                : "Iniciante e melhorando",
+
+  construindoAtualmente : ["Java", "JavaScript", "Python", "Arquitetura de Software", "Padrões de Projeto"],
+  buscandoPor           : ["Estágio", "Colaboração em Open Source"],
+
+  superpoder            : "Google, Pesquisar e ir atras de conhecimento não mata ninguem",
+};
+```
+
 
 <h1 align="center"> Meus Status </h1>
 
@@ -35,8 +58,9 @@ Sou uma pessoa prática e que gosta de desafios. Aprender faz parte do meu dia a
  
 </div>
 
+<div align="center">
 
-## Tech Stack
+ ## Tech Stack
 
 **⚡ Proficiente**
 
@@ -64,8 +88,12 @@ Sou uma pessoa prática e que gosta de desafios. Aprender faz parte do meu dia a
 <img src="https://skillicons.dev/icons?i=docker" width="28"/> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=&logoColor=white)
 <img src="https://skillicons.dev/icons?i=kubernetes" width="28"/> ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=&logoColor=white)
 
+</div>
+
 ---
 
+<div align="center">
+ 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=18&duration=3500&pause=1200&color=63B3ED&center=true&vCenter=true&width=580&lines=%22+The+only+limits+are+the+ones+%22;%22+we+impose+upon+ourselves.+%22">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=18&duration=3500&pause=1200&color=1a56a0&center=true&vCenter=true&width=580&lines=%22+The+only+limits+are+the+ones+%22;%22+we+impose+upon+ourselves.+%22" alt="Quote" />
@@ -73,6 +101,8 @@ Sou uma pessoa prática e que gosta de desafios. Aprender faz parte do meu dia a
 
 
 <sub>— Higgs Monaghan</sub>
+
+</div>
 
 --- 
 
