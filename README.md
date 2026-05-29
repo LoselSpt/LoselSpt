@@ -34,7 +34,7 @@ const joaoVitor = {
 <h1 align="center"> Meus Status </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LoselSpt&label=Visitas&color=137501&style=flat" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=LoselSpt&label=Visitas&color=10474C&style=flat" alt="Contador de Visitas" />
   <br><br>
   <table>
     <tr>
