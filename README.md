@@ -68,13 +68,18 @@ const joaoVitor = {
 <img src="https://skillicons.dev/icons?i=js" width="28"/> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=&logoColor=black)
 <img src="https://skillicons.dev/icons?i=python" width="28"/> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=&logoColor=white)
 <img src="https://skillicons.dev/icons?i=html" width="28"/> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker" width="28"/> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=&logoColor=white)
+<img src="https://skillicons.dev/icons?i=kubernetes" width="28"/> ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=&logoColor=white)
+<img src="https://skillicons.dev/icons?i=spring" width="28"/> ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git" width="28"/> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=&logoColor=white)
+<img src="https://skillicons.dev/icons?i=github" width="28"/> ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=&logoColor=white)
 
 **🔧 Experiência**
 
 <img src="https://skillicons.dev/icons?i=mysql" width="28"/> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=&logoColor=white)
-<img src="https://skillicons.dev/icons?i=spring" width="28"/> ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=&logoColor=white)
-<img src="https://skillicons.dev/icons?i=git" width="28"/> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=&logoColor=white)
-<img src="https://skillicons.dev/icons?i=github" width="28"/> ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=&logoColor=white)
+
+
+
 
 **🌱 Explorando**
 
@@ -85,8 +90,8 @@ const joaoVitor = {
 <img src="https://skillicons.dev/icons?i=mongodb" width="28"/> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=&logoColor=white)
 <img src="https://skillicons.dev/icons?i=figma" width="28"/> ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=&logoColor=white)
 <img src="https://skillicons.dev/icons?i=gitlab" width="28"/> ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=&logoColor=white)
-<img src="https://skillicons.dev/icons?i=docker" width="28"/> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=&logoColor=white)
-<img src="https://skillicons.dev/icons?i=kubernetes" width="28"/> ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=&logoColor=white)
+
+
 
 </div>
 
